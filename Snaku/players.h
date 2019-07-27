@@ -5,13 +5,10 @@
 
 class Players
 {
-    QString p1Name;
-    QString p2Name;
-
 public:
     Players();
-    void player1();
-    void player2();
+    QString p1Name;
+    QString p2Name;
 };
 
 #endif // PLAYERS_H

@@ -6,8 +6,3 @@ Players::Players()
 {
 
 }
-
-void Players::player1()
-{
-
-}

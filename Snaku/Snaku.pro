@@ -25,18 +25,12 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
-        board.cpp \
         main.cpp \
         mainwindow.cpp \
-        movehandle.cpp \
-        movehandle2.cpp \
         players.cpp
 
 HEADERS += \
-        board.h \
         mainwindow.h \
-        movehandle.h \
-        movehandle2.h \
         players.h
 
 FORMS += \
