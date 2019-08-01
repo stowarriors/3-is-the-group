@@ -23,3 +23,6 @@ So using our program to play the game involves the process of:
 
 6. Reaching the last tile will declare that player the winner and the game will record the number of turns that player did before winning.
 
+7. The player will then be able to view scores by pressing the score button which will display the rankings of the players that played the game. The list will be displayed in a descending order in which the lower the score the better.
+
+8. Additional functions included are the search button and the clear button where the search function will display the score of the inputted name and the clear button will clear all the saved scores and players of the game.
